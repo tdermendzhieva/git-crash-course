@@ -1,1 +1,4 @@
-line of code here
+public class SomeClass{
+	
+	
+}
